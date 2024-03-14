@@ -13,4 +13,5 @@ python3 zindan.py
 
 # Katkıda Bulunanlar
 [Medusa İnstagram](https://www.instagram.com/medusaa.xv)
+
 [Veraildez İnstagram](https://www.instagram.com/savador.xv/)
