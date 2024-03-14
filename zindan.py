@@ -15,16 +15,16 @@ for attribute in dir(SendSms):
 while 1:
     system("cls||clear")
     print("""{}
-     ______                         _     
-    |  ____|                       | |    
-    | |__   _ __   ___  _   _  __ _| |__  
-    |  __| | '_ \ / _ \| | | |/ _` | '_ \ 
-    | |____| | | | (_) | |_| | (_| | | | |
-    |______|_| |_|\___/ \__,_|\__, |_| |_|
-                               __/ |      
-                              |___/      
+  _______           _               ____                  _               
+ |___  (_)         | |             |  _ \                | |              
+    / / _ _ __   __| | __ _ _ __   | |_) | ___  _ __ ___ | |__   ___ _ __ 
+   / / | | '_ \ / _` |/ _` | '_ \  |  _ < / _ \| '_ ` _ \| '_ \ / _ \ '__|
+  / /__| | | | | (_| | (_| | | | | | |_) | (_) | | | | | | |_) |  __/ |   
+ /_____|_|_| |_|\__,_|\__,_|_| |_| |____/ \___/|_| |_| |_|_.__/ \___|_|   
+                                                                          
+                                                                          
     
-    Sms: {}           {}by {}@tingirifistik\n  
+    Sms: {}           {}by {}insta: zindan.xv\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder (Normal)\n\n 2- SMS Gönder (Turbo)\n\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
